@@ -97,6 +97,7 @@ This project showcases expertise in **data visualization**, **Power BI dashboard
 ### 👤 Author
 
 **Oladotun Olawale**
+
 📧 Email: oladotunolawale29@yahoo.com
 
 🔗 LinkedIn: http://www.linkedin.com/in/oladotun-olawale
