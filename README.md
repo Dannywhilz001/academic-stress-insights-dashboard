@@ -7,6 +7,8 @@ This dashboard turns raw academic and psychological data into actionable insight
 
 ---
 
+[Dashboard Preview](https://ibb.co/zW9xQjwF)
+
 ### 🧠 Key Insights
 
 * **High Stress Rate:** 60.33% of students experience elevated stress.
@@ -98,11 +100,10 @@ This project showcases expertise in **data visualization**, **Power BI dashboard
 
 **Oladotun Olawale**
 
-📧 Email: oladotunolawale29@yahoo.com
 
-🔗 LinkedIn: http://www.linkedin.com/in/oladotun-olawale
+🔗 [LinkedIn](http://www.linkedin.com/in/oladotun-olawale)
 
-💼 Portfolio: https://github.com/Dannywhilz001 
+💼 [Portfolio](https://github.com/Dannywhilz001)
 
 ---
 
